@@ -1,0 +1,78 @@
+{
+  "1423170492386250762": {
+    "name": "Bara Bara no Mi",
+    "rarity": "Common",
+    "isLogia": false,
+    "gif": null,
+    "messageId": "1423338368598671440",
+    "createdAt": 1759420712316,
+    "caught": true
+  },
+  "bodfwi9z": {
+    "fruitName": "Gomu Gomu no Mi",
+    "channelId": "1423168966309707847",
+    "guildId": "1420925455854473308",
+    "createdAt": 1759423964948,
+    "taken": true,
+    "takenBy": "891089077988892692"
+  },
+  "7ta3o41q": {
+    "fruitName": "Moku Moku no Mi",
+    "channelId": "1423170492386250762",
+    "guildId": "1420925455854473308",
+    "createdAt": 1759423988940,
+    "taken": true,
+    "takenBy": "891089077988892692"
+  },
+  "so9kun0e": {
+    "fruitName": "Gomu Gomu no Mi",
+    "channelId": "1423170492386250762",
+    "guildId": "1420925455854473308",
+    "createdAt": 1759423990763,
+    "taken": true,
+    "takenBy": "891089077988892692"
+  },
+  "o7wbg29v": {
+    "fruitName": "Bara Bara no Mi",
+    "channelId": "1423170492386250762",
+    "guildId": "1420925455854473308",
+    "createdAt": 1759424045756,
+    "taken": true,
+    "takenBy": "891089077988892692"
+  },
+  "2f3pn74y": {
+    "fruitName": "Bara Bara no Mi",
+    "channelId": "1423170492386250762",
+    "guildId": "1420925455854473308",
+    "createdAt": 1759424049257,
+    "taken": false
+  },
+  "oj93zkan": {
+    "fruitName": "Gomu Gomu no Mi",
+    "channelId": "1423170492386250762",
+    "guildId": "1420925455854473308",
+    "createdAt": 1759424057050,
+    "taken": false
+  },
+  "hu20hl1x": {
+    "fruitName": "Bara Bara no Mi",
+    "channelId": "1423170492386250762",
+    "guildId": "1420925455854473308",
+    "createdAt": 1759424057834,
+    "taken": false
+  },
+  "k0mzbb3o": {
+    "fruitName": "Bara Bara no Mi",
+    "channelId": "1423170492386250762",
+    "guildId": "1420925455854473308",
+    "createdAt": 1759424112636,
+    "taken": false
+  },
+  "c0yz900m": {
+    "fruitName": "Bara Bara no Mi",
+    "channelId": "1422731616320753674",
+    "guildId": "1420925455854473308",
+    "createdAt": 1759424217662,
+    "taken": false
+  }
+}

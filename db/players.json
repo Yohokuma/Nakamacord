@@ -1,0 +1,338 @@
+{
+  "850131689954869260": {
+    "inventory": {
+      "fruits": [
+        "Bara Bara no Mi"
+      ],
+      "weapons": []
+    },
+    "equipped": {
+      "fruit": "Gomu Gomu no Mi",
+      "weapon": null
+    },
+    "belly": 200,
+    "_msgCount": 27,
+    "starter": {
+      "name": "Gomu Gomu no Mi",
+      "type": "fruit",
+      "stats": {
+        "hp": 80,
+        "attack": 30,
+        "speed": 20,
+        "mastery": 1
+      }
+    },
+    "masteries": {
+      "fruits": {},
+      "weapons": {}
+    }
+  },
+  "312449663284412427": {
+    "belly": 3600,
+    "equipped": {
+      "fruit": "Yami Yami no Mi",
+      "weapon": "Ginga Pachinko"
+    },
+    "inventory": {
+      "fruits": [
+        "Bara Bara no Mi"
+      ],
+      "weapons": []
+    },
+    "activeSlot": "fruit",
+    "starter": {
+      "name": "Hie Hie no Mi",
+      "type": "fruit",
+      "stats": {
+        "hp": 250,
+        "attack": 260,
+        "speed": 230,
+        "mastery": 100
+      }
+    },
+    "_msgCount": 282,
+    "masteries": {
+      "fruits": {
+        "Gomu Gomu no Mi": 100,
+        "Hie Hie no Mi": 100
+      },
+      "weapons": {
+        "Ginga Pachinko": 1
+      }
+    },
+    "hakis": {
+      "buso": true,
+      "ken": 3,
+      "hao": true
+    },
+    "fruits": [
+      "Bara Bara no Mi",
+      "Moku Moku no Mi",
+      "Gomu Gomu no Mi"
+    ],
+    "mastery": {
+      "fruit": {
+        "Hie Hie no Mi": 100,
+        "Yami Yami no Mi": 100,
+        "Ope Ope no Mi": 100
+      },
+      "weapon": {}
+    },
+    "storyProgress": 5
+  },
+  "898011732872671252": {
+    "belly": 400,
+    "equipped": {
+      "fruit": "Gomu Gomu no Mi",
+      "weapon": null
+    },
+    "inventory": {
+      "fruits": [
+        "Bara Bara no Mi"
+      ],
+      "weapons": []
+    },
+    "activeSlot": "fruit",
+    "starter": {
+      "name": "Gomu Gomu no Mi",
+      "type": "fruit",
+      "stats": {
+        "hp": 80,
+        "attack": 30,
+        "speed": 20,
+        "mastery": 100
+      }
+    },
+    "_msgCount": 39,
+    "masteries": {
+      "fruits": {
+        "Bara Bara no Mi": 1,
+        "Gomu Gomu no Mi": 100
+      },
+      "weapons": {}
+    },
+    "mastery": {
+      "fruit": {
+        "Gomu Gomu no Mi": 2
+      },
+      "weapon": {}
+    },
+    "hakis": {
+      "buso": false,
+      "ken": false,
+      "hao": false
+    }
+  },
+  "1180311488905347104": {
+    "belly": 2400,
+    "equipped": {
+      "fruit": "Tori Tori no Mi: Model Phoenix",
+      "weapon": null
+    },
+    "inventory": {
+      "fruits": [],
+      "weapons": []
+    },
+    "activeSlot": "fruit",
+    "starter": {
+      "name": "Tori Tori no Mi: Model Phoenix",
+      "type": "fruit",
+      "stats": {
+        "hp": 300,
+        "attack": 230,
+        "speed": 230,
+        "mastery": 100
+      }
+    },
+    "_msgCount": 74,
+    "masteries": {
+      "fruits": {
+        "Bara Bara no Mi": 100,
+        "Gomu Gomu no Mi": 100,
+        "Tori Tori no Mi: Model Phoenix": 100
+      },
+      "weapons": {}
+    },
+    "pvp": {
+      "opponent": "1016533804866879498",
+      "state": "pending"
+    },
+    "hakis": {
+      "buso": true,
+      "ken": 3,
+      "hao": true
+    },
+    "mastery": {
+      "fruit": {
+        "Tori Tori no Mi: Model Phoenix": 100
+      },
+      "weapon": {}
+    }
+  },
+  "716182133345091684": {
+    "belly": 0,
+    "equipped": {
+      "fruit": "Bara Bara no Mi",
+      "weapon": null
+    },
+    "inventory": {
+      "fruits": [
+        "Bara Bara no Mi",
+        "Gomu Gomu no Mi"
+      ],
+      "weapons": []
+    },
+    "activeSlot": "fruit",
+    "starter": {
+      "name": "Bara Bara no Mi",
+      "type": "fruit",
+      "stats": {
+        "hp": 100,
+        "attack": 20,
+        "speed": 10,
+        "mastery": 100
+      }
+    },
+    "_msgCount": 16,
+    "masteries": {
+      "fruits": {
+        "Bara Bara no Mi": 100
+      },
+      "weapons": {}
+    }
+  },
+  "891089077988892692": {
+    "id": "891089077988892692",
+    "belly": 47600,
+    "_msgCount": 1027,
+    "activeSlot": "fruit",
+    "equipped": {
+      "fruit": "Tori Tori no Mi: Model Phoenix",
+      "weapon": null
+    },
+    "mastery": {
+      "fruit": {
+        "Bara Bara no Mi": 100,
+        "Gomu Gomu no Mi": 100,
+        "Tori Tori no Mi: Model Phoenix": 100,
+        "Hie Hie no Mi": 100,
+        "Yami Yami no Mi": 100,
+        "Ope Ope no Mi": 100
+      },
+      "weapon": {}
+    },
+    "inventory": {
+      "fruits": [
+        "Moku Moku no Mi",
+        "Bara Bara no Mi",
+        "Moku Moku no Mi",
+        "Bara Bara no Mi",
+        "Hie Hie no Mi",
+        "Gomu Gomu no Mi"
+      ],
+      "weapons": []
+    },
+    "hakis": {
+      "buso": true,
+      "ken": 3,
+      "hao": true
+    },
+    "starter": {
+      "name": "Bara Bara no Mi",
+      "type": "fruit",
+      "stats": {
+        "hp": 100,
+        "attack": 20,
+        "speed": 10,
+        "mastery": 100
+      }
+    },
+    "story": {
+      "cleared": {
+        "1": true
+      },
+      "next": 2
+    },
+    "storyProgress": 9
+  },
+  "1026187333097238640": {
+    "id": "1026187333097238640",
+    "belly": 300,
+    "_msgCount": 141,
+    "activeSlot": "fruit",
+    "equipped": {
+      "fruit": "Tori Tori no Mi: Model Phoenix",
+      "weapon": null
+    },
+    "mastery": {
+      "fruit": {
+        "Bara Bara no Mi": 100,
+        "Gomu Gomu no Mi": 100,
+        "Tori Tori no Mi: Model Phoenix": 100
+      },
+      "weapon": {}
+    },
+    "inventory": {
+      "fruits": [
+        "Bara Bara no Mi",
+        "Bara Bara no Mi",
+        "Gomu Gomu no Mi"
+      ],
+      "weapons": []
+    },
+    "hakis": {
+      "buso": true,
+      "ken": 3,
+      "hao": true
+    },
+    "starter": {
+      "name": "Bara Bara no Mi",
+      "type": "fruit",
+      "stats": {
+        "hp": 100,
+        "attack": 20,
+        "speed": 10,
+        "mastery": 100
+      }
+    }
+  },
+  "1016533804866879498": {
+    "id": "1016533804866879498",
+    "belly": 34650,
+    "_msgCount": 1001,
+    "activeSlot": "fruit",
+    "equipped": {
+      "fruit": "Ope Ope no Mi",
+      "weapon": null
+    },
+    "mastery": {
+      "fruit": {
+        "Bara Bara no Mi": 100,
+        "Ope Ope no Mi": 100
+      },
+      "weapon": {}
+    },
+    "inventory": {
+      "fruits": [
+        "Bara Bara no Mi"
+      ],
+      "weapons": []
+    },
+    "hakis": {
+      "buso": true,
+      "ken": true,
+      "hao": true
+    },
+    "starter": {
+      "name": "Bara Bara no Mi",
+      "type": "fruit",
+      "stats": {
+        "hp": 100,
+        "attack": 20,
+        "speed": 10,
+        "mastery": 100
+      }
+    },
+    "storyProgress": 12
+  }
+}
